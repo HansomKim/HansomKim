@@ -3,7 +3,7 @@
 <p align="center">
 🎓 AI Convergence Student @ Sungshin Women's University <br>
 💡 Deep Learning · Machine Learning · Data Science · FinTech <br>
-🌱 Passionate about bridging <b>Mathematics × AI × Real-world Applications</b>
+🌱 Passionate about bridging <b>Mathematics × AI</b>
 </p>
 
 ---
@@ -81,7 +81,7 @@
 
 ## 🔗 Featured Repositories
 <p align="center">
-<a href="https://github.com/username/2025-study">📘 2025-study</a> • 
+<a href="https://github.com/username/2025-study">📘 2025-fallsemeter-study</a> • 
 <a href="https://github.com/username/projects">🚀 projects</a> • 
 <a href="https://github.com/username/competitions">🏆 competitions</a>
 </p>
@@ -92,4 +92,12 @@
 <p align="center">
 ✉️ <a href="mailto:hansomkim114@gmail.com">hansomkim114@gmail.com</a>
 </p>
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HansomKim&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+</p>
+
+
+
 

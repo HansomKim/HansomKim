@@ -81,9 +81,9 @@
 
 ## 🔗 Featured Repositories
 <p align="center">
-<a href="https://github.com/username/2025-fallsemester-study">📘 2025-fallsemester-study</a> • 
-<a href="https://github.com/username/projects">🚀 projects</a> • 
-<a href="https://github.com/username/competitions">🏆 competitions</a>
+<a href="https://github.com/HansomKim/2025-fallsemester-study">📘 2025-fallsemester-study</a> • 
+<a href="https://github.com/HansomKim/projects">🚀 projects</a> • 
+<a href="https://github.com/HansomKim/competitions">🏆 competitions</a>
 </p>
 
 ---

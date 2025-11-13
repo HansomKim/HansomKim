@@ -46,7 +46,7 @@
 ## 🏆 Awards
 - **Excellence Award (2nd Place Overall)** @ KU PBL Competition (2024)  
 - **3rd Place** @ KU Data Analysis Contest (2023)  
-- **TOEIC 905 (LC 485)** (2024)  
+- **TOEIC 935 (LC 485)** (2024)  
 
 ---
 

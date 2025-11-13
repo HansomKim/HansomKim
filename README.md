@@ -1,4 +1,8 @@
-<h1 align="center">👋 Hi, I'm Hansom Kim (김한솜)</h1>
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=240&text=HanSom%20Kim&animation=&fontColor=e63b7a&fontSize=70" />
+    </div>
+    
+<h1 align="center"> Hi, I'm Hansom Kim (김한솜)</h1>
 
 <p align="center">
 🎓 AI Convergence Student @ Sungshin Women's University <br>

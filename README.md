@@ -15,10 +15,8 @@
 ## 📚 Education
 - **Sapienza University of Rome** (Feb 2027 ~ )  
   Exchange Student, Computer Science & AI courses
-- **Sungshin Women’s University** (2025 ~ )  
+- **Sungshin Women’s University**   
   B.A. in AI Convergence (Transferred from Mathematical Statistics & Data Science)
-- **Korea University** (2023–2024)  
-  Major: Food Science & Biotechnology
 - **Jangan Jeil High School (STEM Program)** (2019–2021)  
 
 ---

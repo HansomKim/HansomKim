@@ -42,16 +42,28 @@
 ---
 
 ## 🏆 Awards
+- **Grand Prize** AI x FinTech Startup Challenge (Sungshin Univ.)
+Built a multimodal AI mentor model and gamified saving/investment UX
+- **Encouragement Award** KAIST National AI Ideathon
+Proposed an innovative failure-data utilization platform with AI-driven classification and visualization
+- **Excellence Award** Korea Management Consulting Society
+- **
 - **Excellence Award (2nd Place Overall)** @ KU PBL Competition (2024)  
 - **3rd Place** @ KU Data Analysis Contest (2023)  
-- **TOEIC 935 (LC 485)** (2024)  
+- **TOEIC 935 (LC 485)** (2024)
+
+
+Ongoing National Competitions
+-National Forensic Service Deepfake Detection AI Hackathon
+-KAIST–UNIST–POSTECH–Hankook Tire Defect Prediction Hackathons (2 teams)
 
 ---
 
 ## 🌐 Activities
+-**Published Academic Paper Co-authored a paper submitted to the Korean Information Science Society (한국정보과학회)** Contributing to data preprocessing methodology and model interpretation. Recognized for AI-based ESG/Greenwashing logistic regression research and visualization.
 - **GenCon AI Conference (2024)** – Generative AI social/tech trends  
-- **Crimson Brain Seminar (2023–2024)** – AI/ML academic seminar  
-
+- **Crimson Brain Seminar (2023–2024)** – AI/ML academic seminar
+  
 ---
 
 ## 🛠️ Tools & Technologies

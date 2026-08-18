@@ -107,9 +107,11 @@
 
 ---
 
-## 🔗 Featured Repository
+## 🔗 Featured Repositories
 <p align="center">
-<a href="https://github.com/HansomKim/portfolio">📂 portfolio</a> — Acheivement(대외활동) · Projects(데이터/AI 프로젝트) · Study(학업, Sapienza 교환학기 포함) 전체 기록
+<a href="https://github.com/HansomKim/Acheivement">🏆 Acheivement</a> — 대외활동 & 공모전 기록 &nbsp;|&nbsp;
+<a href="https://github.com/HansomKim/Projects">💻 Projects</a> — 데이터/AI 프로젝트 기록 &nbsp;|&nbsp;
+<a href="https://github.com/HansomKim/Study">📚 Study</a> — 학업 기록 (Sapienza 교환학기 포함)
 </p>
 
 ---

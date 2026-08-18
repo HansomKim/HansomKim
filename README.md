@@ -1,7 +1,7 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=240&text=HanSom%20Kim&animation=&fontColor=e63b7a&fontSize=70" />
-    </div>
-    
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=240&text=HanSom%20Kim&animation=&fontColor=e63b7a&fontSize=70" />
+</div>
+
 <h1 align="center"> Hi, I'm Hansom Kim (김한솜)</h1>
 
 <p align="center">
@@ -13,57 +13,68 @@
 ---
 
 ## 📚 Education
-- **Sapienza University of Rome** (Feb 2027 ~ )  
-  Exchange Student, Computer Science & AI courses
-- **Sungshin Women’s University**   
+- **Sapienza University of Rome** (Feb 2026 – Aug 2026)
+  Exchange Student, Computer Science & AI — Computer Vision & NLP Lab, Generative AI, AI in Banking & Finance, HCI, Multilingual NLP
+- **Sungshin Women's University**
   B.A. in AI Convergence (Transferred from Mathematical Statistics & Data Science)
-- **Jangan Jeil High School (STEM Program)** (2019–2021)  
+- **Jangan Jeil High School (STEM Program)** (2019–2021)
+
+---
+
+## 📄 Research & Publications
+- **"Deep Learning Model Optimization for Real-Time Healthcare Service Congestion Prediction"** — *Korean Information Science Society (한국정보과학회) KSC 2025*  
+  Co-authored & presented. Proposed a synthetic time-series reconstruction method for sparse public ER statistics and compared CNN-LSTM / RandomForest / XGBoost for real-time congestion prediction.
+- **"Helmet Detection Under Adverse Imaging Conditions: A Comparative Robustness Benchmark of YOLOv8 Variants"** — *Sapienza Università di Roma, AI Lab (Computer Vision & NLP)*  
+  Benchmarked YOLOv8n/s/m under 15 image corruption types × 5 severity levels (Michaelis et al. protocol); statistical significance testing (paired t-test, Cohen's d) across model variants; identified optimal accuracy–robustness–latency trade-off for deployment.
+- **"생성형 AI 보조가 ESG 의사결정 품질과 그린워싱 인식에 미치는 영향"** — *한국경영컨설팅학회 2025 추계학술대회 대학생경진대회 (우수상)*  
+  Built an NLP text-mining pipeline (PyMuPDF + regex + rapidfuzz) analyzing 100+ corporate ESG reports, and modeled the relationship between AI-mention density and greenwashing/transparency indicators.
 
 ---
 
 ## 💻 Experience
-- **Math & Coding Instructor** (Wiseman, BeTheSky, Algo Academy, Eduplex)  
-  - Designed customized math/CS curricula for top-tier students  
-  - Built **Notion-based LMS** for progress tracking & feedback  
+- **Math & Coding Instructor** (Wiseman, BeTheSky, Algo Academy, Eduplex)
+  - Designed customized math/CS curricula for top-tier students
+  - Built **Notion-based LMS** for progress tracking & feedback
   - Applied student data to **AI-driven study recommendation prototypes**
 
 ---
 
 ## 🚀 Projects
-- **MindHound** – AI-based burnout prevention app  
+- **Hankook Tire Manufacturing Defect Classification** (Ongoing, KAIST–UNIST–POSTECH–Hankook Tire Hackathon)
+  - LightGBM binary classifier over process/dimensional sensor features with engineered aggregate statistics
+  - Designed a cost-sensitive decision threshold (business profit/loss function) instead of default 0.5 cutoff
+- **Deepfake Detection Challenge** (Ongoing, National Forensic Service AI Hackathon)
+  - Binary real/fake facial image & video classification, automated model-submission inference pipeline
+- **SyncTime** — Collaborative group-travel scheduling app (HCI course, Sapienza, team of 6)
+  - Grounded design in 17 user interviews; iterated through 6 rounds of usability testing to a high-fidelity SwiftUI prototype
+- **MindHound** – AI-based burnout prevention app
   - Energy data collection & analysis pipeline design
-- **FarmKit Chatbot (PBL)** – Food recommendation bot  
+- **FarmKit Chatbot (PBL)** – Food recommendation bot
   - Web crawling + OCR integration, UI/UX analysis
-- **Suicide Sign Detection (PBL)** – Facial video analysis  
+- **Suicide Sign Detection (PBL)** – Facial video analysis
   - Combined OpenFace + LLM for emotion & risk detection
-- **Deep Learning Team Project**  
+- **Deep Learning Team Project**
   - Implemented CNN, RNN, GNN on Colab datasets
 
 ---
 
 ## 🏆 Awards
-- **Grand Prize** AI x FinTech Startup Challenge (Sungshin Univ.)
-Built a multimodal AI mentor model and gamified saving/investment UX
-- **Encouragement Award** KAIST National AI Ideathon
-Proposed an innovative failure-data utilization platform with AI-driven classification and visualization
-- **Excellence Award** Korea Management Consulting Society
-- **
-- **Excellence Award (2nd Place Overall)** @ KU PBL Competition (2024)  
-- **3rd Place** @ KU Data Analysis Contest (2023)  
-- **TOEIC 935 (LC 485)** (2024)
-
-
-Ongoing National Competitions
--National Forensic Service Deepfake Detection AI Hackathon
--KAIST–UNIST–POSTECH–Hankook Tire Defect Prediction Hackathons (2 teams)
+- **Grand Prize** — AI x FinTech Startup Challenge (Sungshin Univ.)  
+  Built a multimodal AI mentor model and gamified saving/investment UX
+- **Encouragement Award** — KAIST National AI Ideathon  
+  Proposed an AI-driven failure-data classification & visualization platform (FailMate)
+- **Excellence Award (우수상)** — Korea Management Consulting Society, 2025 Fall Conference Student Competition  
+  ESG × Generative AI research (see Research & Publications)
+- **Excellence Award, 2nd Place Overall** — KU PBL Competition (2024)
+- **3rd Place** — KU Data Analysis Contest (2023)
+- **TOEIC 935** (LC 485), 2024
 
 ---
 
 ## 🌐 Activities
--**Published Academic Paper Co-authored a paper submitted to the Korean Information Science Society (한국정보과학회)** Contributing to data preprocessing methodology and model interpretation. Recognized for AI-based ESG/Greenwashing logistic regression research and visualization.
-- **GenCon AI Conference (2024)** – Generative AI social/tech trends  
-- **Crimson Brain Seminar (2023–2024)** – AI/ML academic seminar
-  
+- **GenCon AI Conference** (2024) – Generative AI social/tech trends
+- **Crimson Brain Seminar** (2023–2024) – AI/ML academic seminar
+
 ---
 
 ## 🛠️ Tools & Technologies
@@ -74,6 +85,9 @@ Ongoing National Competitions
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### Frameworks & Systems
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -93,11 +107,9 @@ Ongoing National Competitions
 
 ---
 
-## 🔗 Featured Repositories
+## 🔗 Featured Repository
 <p align="center">
-<a href="https://github.com/HansomKim/2025-fallsemester-study">📘 2025-fallsemester-study</a> • 
-<a href="https://github.com/HansomKim/projects">🚀 projects</a> • 
-<a href="https://github.com/HansomKim/competitions">🏆 competitions</a>
+<a href="https://github.com/HansomKim/portfolio">📂 portfolio</a> — Acheivement(대외활동) · Projects(데이터/AI 프로젝트) · Study(학업, Sapienza 교환학기 포함) 전체 기록
 </p>
 
 ---
@@ -109,9 +121,5 @@ Ongoing National Competitions
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HansomKim&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=HansomKim&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
 </p>
-
-
-
-

@@ -17,7 +17,6 @@
   Exchange Student, Computer Science & AI — Computer Vision & NLP Lab, Generative AI, AI in Banking & Finance, HCI, Multilingual NLP
 - **Sungshin Women's University**
   B.A. in AI Convergence (Transferred from Mathematical Statistics & Data Science)
-- **Jangan Jeil High School (STEM Program)** (2019–2021)
 
 ---
 
@@ -31,16 +30,8 @@
 
 ---
 
-## 💻 Experience
-- **Math & Coding Instructor** (Wiseman, BeTheSky, Algo Academy, Eduplex)
-  - Designed customized math/CS curricula for top-tier students
-  - Built **Notion-based LMS** for progress tracking & feedback
-  - Applied student data to **AI-driven study recommendation prototypes**
-
----
-
 ## 🚀 Projects
-- **Hankook Tire Manufacturing Defect Classification** (Ongoing, KAIST–UNIST–POSTECH–Hankook Tire Hackathon)
+- **Hankook Tire Manufacturing Defect Classification** (Ongoing, KAIST–UNIST–POSTECH–Hankook Tire Hackathon) overall 10th place(reader board)
   - LightGBM binary classifier over process/dimensional sensor features with engineered aggregate statistics
   - Designed a cost-sensitive decision threshold (business profit/loss function) instead of default 0.5 cutoff
 - **Deepfake Detection Challenge** (Ongoing, National Forensic Service AI Hackathon)
@@ -72,6 +63,8 @@
 ---
 
 ## 🌐 Activities
+- **GDGoC
+- DF
 - **GenCon AI Conference** (2024) – Generative AI social/tech trends
 - **Crimson Brain Seminar** (2023–2024) – AI/ML academic seminar
 
